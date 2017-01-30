@@ -1,0 +1,43 @@
+.firstClass { color: aqua;
+    font-size: 40; 
+border: 10px dotted pink;
+    background-color :mediumvioletred;
+    text-align: center;
+    margin-bottom:100px;
+    margin-top:20px;
+    padding 40px;
+    
+
+}
+
+.secondClass { color: black;
+    font-size: 30px; 
+    margin:100px;
+        padding:10px;
+    
+    border:5px pink solid;
+     background-color :green;
+    text-align: center
+}
+
+#firstId {
+    
+    color : red;
+}
+
+#blabla {
+    color : yellow;
+    font-size: 50px
+    
+}
+
+#idSection {
+    color : aqua;
+    font-size: 100px
+    
+}
+
+.backgroundBg {
+    background-color: green;
+    
+}

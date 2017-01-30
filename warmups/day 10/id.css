@@ -1,0 +1,26 @@
+body{
+    margin:  20px 100px 20px 100px ;
+    
+}
+.box{
+    width: 10px;
+    height: 150px;
+    text-align: center;
+   display: inline-block;
+   
+    
+}
+.box1{
+    background-color: aqua;
+    
+    
+}
+
+.box2{
+    background-color: black;
+    
+}
+.box3{
+    background-color: red;
+    
+}

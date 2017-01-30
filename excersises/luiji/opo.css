@@ -1,0 +1,46 @@
+.yelow{background-color: yellow;
+height: 80px;
+    text-align: left;
+    font-size: 40px;
+    
+    
+}
+.red{
+    background: red;
+    height:300px;
+    text-align: center;
+    
+    
+}
+.ww{
+
+}
+.white{
+    background-color: white;
+   
+    height: 250px;
+    font-size:20px;
+    text-align: center;
+    text-decoration-color: red;
+     
+}
+b{
+    font-size: 40px;
+    color: red;
+    
+}
+
+p{
+    color: red;
+    
+}
+
+.container-fluid {
+   padding: 0px !important;
+}
+k{
+    color: red;
+    
+}
+
+.photo{}

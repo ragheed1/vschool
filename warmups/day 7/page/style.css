@@ -1,0 +1,64 @@
+body{
+    margin-left: 20px;
+    margin-left: 20px;
+    display:inline-block;
+    padding: 20px;
+    
+    
+    
+        
+}
+.dodo{
+    border: 200px;
+    width: 1000px;
+    height: 200px;
+    background-color: pink;
+    margin-bottom: 5px;
+    
+    
+}
+.second{
+    border: 10px solid transparent;
+    width: 230px;
+    height: 200px;
+    background-color: palevioletred;
+    display:inline-block;
+    text-align: center;
+    
+    
+    
+    
+}
+
+
+.third{
+    border: 10px solid transparent;
+    width: 480px;
+    height: 200px;
+    background-color: aqua;
+    
+        display:inline-block;
+    
+        
+}
+    
+    
+}
+.ul{
+    
+   
+    width: 520p;
+    height: 200px;
+    background-color: green;
+    display: inline-block
+    
+}
+.jb{
+    
+  
+    width: 25%;
+    height: 200px;
+    background-color: orange;
+    
+    
+}

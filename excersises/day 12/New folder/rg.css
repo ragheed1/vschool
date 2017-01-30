@@ -1,0 +1,28 @@
+.red {
+    
+    background-color: red;
+    width:100%;
+    height: 100px;
+}
+.green{
+    background-color: green;
+    
+        width:100%;
+        height: 100px;
+    
+}
+div{
+    border: 1px;
+    border-bottom-color: solid black;
+    margin: auto
+        
+}
+
+.black{
+    background-color: aqua;
+    border: 100%;
+    height: 400px;
+    width: 880px;
+    
+    
+}

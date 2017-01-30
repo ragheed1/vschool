@@ -1,0 +1,39 @@
+
+
+h1{
+    color: black;
+    font-family:inherit;
+    text-align: center;
+    
+        
+        
+    
+}
+h2{color: green;
+font-family: fantasy;
+text-align: center;
+;
+}
+ 
+p{ font-size: 35px;
+    color: dimgray
+}
+li{font-size: 20px;
+
+}
+a{ font-size: 20px;
+    text-decoration: none;
+    
+        
+
+}
+a:hover{ text-decoration:underline
+    
+    
+}
+img {
+    float: left;
+    width: 200;
+    height: 300
+        
+}

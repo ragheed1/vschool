@@ -1,0 +1,26 @@
+p{
+    color: black;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    margin-right: 20px;
+    margin-left: 20px;
+text-align: left;
+    border-bottom: 40px;
+    vertical-align: middle
+}
+    
+h1{ color: black;
+    background-color: indianred;
+    
+
+font-size: 50px;
+    text-align: center
+        
+}
+h4{color: gold;
+text-align: center;
+font-size: 20px
+}
+img{font-size: 200px;
+}
