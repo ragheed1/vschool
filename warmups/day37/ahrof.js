@@ -1,22 +1,14 @@
-var words = [];
-var letter = "abcdefghijklmnopqrstuvwxyz";
- conter = 0 
-for( var i = 0 ; i < letter.length ; i++)
-    if( letter[i] === a || o || u || e || i)
-        return words;
+var Person = function (name, age, status) {
+    this.name= name || "noface";
+    this. age= age || 0;
+    this.status= status || "single";
+    this.dance = function () {
+        console.log(this.name + "go to the hell");
 
-    
-        console.log ("ragheedhaddad")
-        
     }
-    
-    
-var words = function(letter)
- this.letter = letter ;
- 
-    this run = function(){
-        console.log ("i am running ")
-        
-    }
- 
-   
+}
+var ahmad = new Person("ahmad", 32, "single");
+var omar = new Person("omar", 44, "married");
+console.log(ahmad.status);
+console.log(omar.status);
+omar.dance()
